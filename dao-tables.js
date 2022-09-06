@@ -78,20 +78,4 @@ const init = function () {
   db.run(sql_create_newslet);
 }
 
-/*
-const sql = 'INSERT INTO Opera (title,description,userId,year,price,image,collection) VALUES(?,?,?,?,?,?,?);';
-db.run(sql, ["Venere e marte","69x173","sandro","1482",100000000,"/images/opere/sandro3.jpg","Beta"], function(err) {
-    if (err) {
-      console.log(err);
-    } 
-  });
-  */
-
-
-const sql='DELETE FROM Message WHERE 1';
-db.run(sql,  function(err) {
-  if (err) {
-    console.log(err);
-  } 
-});
 

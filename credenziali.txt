@@ -1,0 +1,12 @@
+ADMIN:
+user : pirp8  password: filippopirola
+
+CLIENTE:
+user:  lucaflo		password: lucaflorio
+
+ARTISTA:
+user		jago		password : jago.art
+
+
+VIDEO:
+https://youtu.be/Ykz-frFkBlQ

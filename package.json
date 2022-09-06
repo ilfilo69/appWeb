@@ -1,0 +1,39 @@
+{
+  "name": "pirolafilippo20033845",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "await": "^0.2.6",
+    "bcrypt": "^5.0.1",
+    "canvas": "^2.9.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.8",
+    "es6-import": "^1.6.5",
+    "express": "~4.16.1",
+    "express-passport": "^0.1.0",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.2",
+    "fs": "^0.0.1-security",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "moment": "^2.29.4",
+    "morgan": "~1.9.1",
+    "page": "^1.11.6",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "pdfkit": "^0.13.0",
+    "require": "^2.4.20",
+    "sqlite3": "^5.0.11"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
