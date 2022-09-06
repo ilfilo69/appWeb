@@ -76,6 +76,4 @@ const init = function () {
   db.run(sql_create_feed);
   db.run(sql_create_coll);
   db.run(sql_create_newslet);
-}
-
-
+};
